@@ -50,4 +50,7 @@ Responsável pelo registro de novas plantas, permitindo inserir informações re
 Tela de Edição
 
 Permite modificar dados previamente cadastrados e manter as informações atualizadas.
+
+
+
 <img width="290" height="649" alt="image" src="https://github.com/user-attachments/assets/7de3ee8c-10f2-4d2a-a426-97d0d9d56ee8" />
